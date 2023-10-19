@@ -1,0 +1,4 @@
+batch	1
+samples_dir	FASTQ
+metadata_file	SraRunTable.csv
+sra_prefix	raymond_b

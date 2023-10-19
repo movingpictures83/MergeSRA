@@ -1,0 +1,2 @@
+Prefix plugins/MergeSRA/example/
+Plugin MergeSRA inputfile parameters.txt outputfile .
